@@ -135,4 +135,4 @@ If AI tweet generation is failing:
 
 ## Credits
 
-Developed by CryptoXpress Team
+Developed by Venkata Raghava K
